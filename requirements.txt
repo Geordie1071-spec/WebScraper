@@ -4,4 +4,4 @@ lxml
 html5lib
 requests
 pandas
-
+openpyxl
