@@ -31,6 +31,65 @@ countries_leagues = {
     "France": {
         "Ligue 1": "1221",
         "Ligue 2": "1222"
+    },
+    "Turkey": {
+        "Super Lig": "1425"
+    },
+    "UEFA": {
+        "Champions League": "1005",
+        "Europa": "1007",
+        "Conference": "2001"
+    },
+    "Holland": {
+        "Eredivisie": "1298"
+    },
+    "Portugal": {
+        "Liga": "1352"
+    },
+    "Argentina": {
+        "Liga Professional": "1032"
+    },
+    "Brazil": {
+        "SerieA": "1097"
+    },
+    "Saudi Arabia": {
+        "Professional League": "1390"
+    },
+    "Poland": {
+        "Ekstraklasa": "1341"
+    },
+    "Scotland": {
+        "Premiership": "1384"
+    },
+    "Australia": {
+        "A League": "1046"
+    },
+    "USA": {
+        "MLS": "1439"
+    },
+    "Mexico": {
+        "MX Liga": "1310"
+    },
+    "Colombia": {
+        "Primera A": "1145"
+    },
+    "Japan": {
+        "J1 League": "1275"
+    },
+    "China": {
+        "Super League": "1133"
+    },
+    "Sweden": {
+        "Allsvenskan": "1412"
+    },
+    "Denmark": {
+        "Superliga": "1174"
+    },
+    "Belgium": {
+        "Pro Jupiler": "1082"
+    },
+    "South Korea": {
+        "K League": "1292"
     }
 }
 
