@@ -18,19 +18,19 @@ countries_leagues = {
     },
     "Spain": {
         "La Liga": "1399",
-        "La Liga 2": "1400"
+        "La Liga 2": "1398"
     },
     "Germany": {
         "Bundesliga": "1229",
-        "2. Bundesliga": "1230"
+        "2. Bundesliga": "1225"
     },
     "Italy": {
         "Serie A": "1269",
-        "Serie B": "1270"
+        "Serie B": "1265"
     },
     "France": {
         "Ligue 1": "1221",
-        "Ligue 2": "1222"
+        "Ligue 2": "1217"
     },
     "Turkey": {
         "Super Lig": "1425"
@@ -38,58 +38,58 @@ countries_leagues = {
     "UEFA": {
         "Champions League": "1005",
         "Europa": "1007",
-        "Conference": "2001"
+        "Conference": "18853"
     },
     "Holland": {
-        "Eredivisie": "1298"
+        "Eredivisie": "1322"
     },
     "Portugal": {
         "Liga": "1352"
     },
     "Argentina": {
-        "Liga Professional": "1032"
+        "Liga Professional": "1081"
     },
     "Brazil": {
-        "SerieA": "1097"
+        "SerieA": "1141"
     },
     "Saudi Arabia": {
-        "Professional League": "1390"
+        "Professional League": "1368"
     },
     "Poland": {
-        "Ekstraklasa": "1341"
+        "Ekstraklasa": "1344"
     },
     "Scotland": {
-        "Premiership": "1384"
+        "Premiership": "1370"
     },
     "Australia": {
-        "A League": "1046"
+        "A League": "1086"
     },
     "USA": {
-        "MLS": "1439"
+        "MLS": "1440"
     },
     "Mexico": {
-        "MX Liga": "1310"
+        "MX Liga": "1308"
     },
     "Colombia": {
-        "Primera A": "1145"
+        "Primera A": "1167"
     },
     "Japan": {
-        "J1 League": "1275"
+        "J1 League": "1271"
     },
     "China": {
-        "Super League": "1133"
+        "Super League": "1163"
     },
     "Sweden": {
-        "Allsvenskan": "1412"
+        "Allsvenskan": "1407"
     },
     "Denmark": {
-        "Superliga": "1174"
+        "Superliga": "1185"
     },
     "Belgium": {
-        "Pro Jupiler": "1082"
+        "Pro Jupiler": "1104"
     },
     "South Korea": {
-        "K League": "1292"
+        "K League": "1282"
     }
 }
 
