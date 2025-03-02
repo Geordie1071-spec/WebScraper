@@ -396,6 +396,7 @@ if 'has_data' in st.session_state and st.session_state['has_data']:
             
             team_names = league_data['team_names']
             team1 = st.selectbox("Select first team:", team_names)
+            team_names.remove(team1)
             team2 = st.selectbox("Select second team:", team_names, index=min(1, len(team_names)-1))
             
             if st.button("Show Players from Selected Teams"):
